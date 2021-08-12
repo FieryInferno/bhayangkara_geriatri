@@ -16,4 +16,14 @@ class ModelDokter extends CI_Model {
       'password'    => password_hash($this->input->post('password'), PASSWORD_DEFAULT)
     ]);
   }
+
+  public function edit($id_dokter)
+  {
+    $data = [
+      'nama_dokter' => $this->input->post('nama_dokter'),
+      'no_ktp'      => $this->input->post('no_ktp')
+    ];
+    if ($this->input->post('password')) $data['password'] = password_hash($this->input->post('password'), PASSWORD_DEFAULT);
+    $this->db->update('dokter', $data, ['id_dokter' => $id_dokter]);
+  }
 }

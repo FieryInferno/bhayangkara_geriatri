@@ -91,7 +91,47 @@
                       <td><?= $d['nama_dokter']; ?></td>
                       <td><?= $d['no_ktp']; ?></td>
                       <td>
-                        <a href="#" class="btn btn-success">Edit</a>
+                        <button type="button" class="btn btn-success" data-toggle="modal" data-target="#edit<?= $d['id_dokter']; ?>">Edit</button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="edit<?= $d['id_dokter']; ?>" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                          <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Edit Dokter</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <form action="<?= base_url('dokter/edit/' . $d['id_dokter']); ?>" method="post">
+                                <div class="modal-body">
+                                  <div class="form-group row">
+                                    <label for="staticEmail" class="col-sm-4 col-form-label">Nama Dokter</label>
+                                    <div class="col-sm-8">
+                                      <input type="text" class="form-control" name="nama_dokter" required value="<?= $d['nama_dokter']; ?>">
+                                    </div>
+                                  </div>
+                                  <div class="form-group row">
+                                    <label for="staticEmail" class="col-sm-4 col-form-label">No. KTP</label>
+                                    <div class="col-sm-8">
+                                      <input type="text" class="form-control" name="no_ktp" required value="<?= $d['no_ktp']; ?>">
+                                    </div>
+                                  </div>
+                                  <div class="form-group row">
+                                    <label for="staticEmail" class="col-sm-4 col-form-label">Password</label>
+                                    <div class="col-sm-8">
+                                      <input type="password" class="form-control" name="password">
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-danger" data-dismiss="modal">Batal</button>
+                                  <button type="submit" class="btn btn-primary">Simpan</button>
+                                </div>
+                              </form>
+                            </div>
+                          </div>
+                        </div>
                         <button class="btn btn-danger">Hapus</button>  
                       </td>
                     </tr>

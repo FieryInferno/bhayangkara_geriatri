@@ -24,4 +24,18 @@ class Dokter extends CI_Controller {
     }
     redirect('dokter');
   }
+
+  public function edit($id_dokter)
+  {
+    $this->form_validation->set_rules('nama_dokter', 'Nama Dokter', 'required');
+    $this->form_validation->set_rules('no_ktp', 'No KTP', 'required');
+
+    if ($this->form_validation->run()) {
+      $this->ModelDokter->edit($id_dokter);
+      $this->session->set_flashdata('pesan', 'Berhasil Edit Dokter');
+    } else {
+      $this->session->set_flashdata('error', 'Data Tidak Boleh Kosong');
+    }
+    redirect('dokter');
+  }
 }

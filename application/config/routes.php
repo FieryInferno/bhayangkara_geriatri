@@ -8,3 +8,4 @@ $route['login']                 = 'Login';
 $route['dashboard']             = 'Admin';
 $route['dokter']                = 'Dokter';
 $route['dokter/tambah']         = 'Dokter/tambah';
+$route['dokter/edit/(:any)']    = 'Dokter/edit/$1';
