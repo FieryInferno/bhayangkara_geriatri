@@ -34,20 +34,27 @@
           </div>
           <div class="col-lg-6" style="background-color: #1d06c0;">
             <div class="p-5">
-                <div class="text-center">
-                    <h1 class="h4 text-gray-900 mb-4">&nbsp;</h1>
+              <div class="text-center">
+                <h1 class="h4 text-gray-900 mb-4">&nbsp;</h1>
+              </div>
+              <?php
+                if ($this->session->pesan) { ?>
+                  <div class="alert alert-danger" role="alert">
+                    <?= $this->session->pesan; ?>
+                  </div>
+                <?php }
+              ?>
+              <form class="user" action="<?= base_url(); ?>login" method="post">
+                <div class="form-group">
+                  <input type="text" class="form-control form-control-user" id="username" placeholder="Username" name="username">
                 </div>
-                <form class="user" action="<?= base_url(); ?>login">
-                  <div class="form-group">
-                    <input type="text" class="form-control form-control-user" id="username" placeholder="Username">
-                  </div>
-                  <div class="form-group">
-                    <input type="password" class="form-control form-control-user" id="password" placeholder="Password">
-                  </div>
-                  <button type="submit" class="btn btn-success btn-user btn-block">Login</button>
-                  <hr>
-                </form>
+                <div class="form-group">
+                  <input type="password" class="form-control form-control-user" id="password" placeholder="Password" name="password">
+                </div>
+                <button type="submit" class="btn btn-success btn-user btn-block">Login</button>
                 <hr>
+              </form>
+              <hr>
             </div>
           </div>
         </div>
