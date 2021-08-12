@@ -38,4 +38,11 @@ class Dokter extends CI_Controller {
     }
     redirect('dokter');
   }
+
+  public function hapus($id_dokter)
+  {
+    $this->ModelDokter->hapus($id_dokter);
+    $this->session->set_flashdata('pesan', 'Berhasil Hapus Dokter');
+    redirect('dokter');
+  }
 }

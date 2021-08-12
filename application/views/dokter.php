@@ -126,13 +126,37 @@
                                 </div>
                                 <div class="modal-footer">
                                   <button type="button" class="btn btn-danger" data-dismiss="modal">Batal</button>
-                                  <button type="submit" class="btn btn-primary">Simpan</button>
+                                  <button type="submit" class="btn btn-success">Edit</button>
                                 </div>
                               </form>
                             </div>
                           </div>
                         </div>
-                        <button class="btn btn-danger">Hapus</button>  
+
+                        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#hapus<?= $d['id_dokter']; ?>">Hapus</button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="hapus<?= $d['id_dokter']; ?>" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                          <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Konfirmasi Hapus</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <form action="<?= base_url('dokter/hapus/' . $d['id_dokter']); ?>" method="post">
+                                <div class="modal-body">
+                                  Apakah anda yakin akan menghapus data ini?
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-warning" data-dismiss="modal">Batal</button>
+                                  <button type="submit" class="btn btn-danger">Hapus</button>
+                                </div>
+                              </form>
+                            </div>
+                          </div>
+                        </div>
                       </td>
                     </tr>
                   <?php }

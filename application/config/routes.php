@@ -9,3 +9,4 @@ $route['dashboard']             = 'Admin';
 $route['dokter']                = 'Dokter';
 $route['dokter/tambah']         = 'Dokter/tambah';
 $route['dokter/edit/(:any)']    = 'Dokter/edit/$1';
+$route['dokter/hapus/(:any)']   = 'Dokter/hapus/$1';

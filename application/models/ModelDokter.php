@@ -26,4 +26,9 @@ class ModelDokter extends CI_Model {
     if ($this->input->post('password')) $data['password'] = password_hash($this->input->post('password'), PASSWORD_DEFAULT);
     $this->db->update('dokter', $data, ['id_dokter' => $id_dokter]);
   }
+
+  public function hapus($id_dokter)
+  {
+    $this->db->delete('dokter', ['id_dokter'  => $id_dokter]);
+  }
 }
