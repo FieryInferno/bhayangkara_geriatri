@@ -74,7 +74,7 @@
       </li>
       <li class="nav-item">
         <a class="nav-link text-dark" href="<?= base_url(); ?>dokter">
-          <i class="fas fa-clipboard text-dark"></i>
+          <i class="fas fa-user-md text-dark"></i>
           <span>Data Dokter</span>
         </a>
       </li>
