@@ -26,24 +26,25 @@
   <div id="wrapper">
 
     <!-- Sidebar -->
-    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+    <ul class="navbar-nav bg-gradient-white sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
+      <div class="nav-item text-center">
+        <img src="<?= base_url(); ?>asset/img/rsbm.png" alt="" width="50%">
+      </div>
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-        <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-laugh-wink"></i>
-        </div>
-        <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+        <div class="sidebar-brand-text mb-3 text-dark">ADMIN</div>
       </a>
 
         <!-- Divider -->
-        <hr class="sidebar-divider my-0">
+        <hr class="sidebar-divider my-0" style="border-top: 1px solid #dbdbdb;">
 
         <!-- Nav Item - Dashboard -->
         <li class="nav-item active">
-            <a class="nav-link" href="index.html">
-                <i class="fas fa-fw fa-tachometer-alt"></i>
-                <span>Dashboard</span></a>
+          <a class="nav-link text-dark" href="index.html">
+            <i class="fas fa-fw fa-tachometer-alt text-dark"></i>
+            <span>Dashboard</span>
+          </a>
         </li>
 
         <!-- Divider -->
