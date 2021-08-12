@@ -18,6 +18,7 @@
   <!-- Custom styles for this template-->
   <link href="<?= base_url(); ?>asset/css/sb-admin-2.min.css" rel="stylesheet">
   <link href="<?= base_url(); ?>asset/css/daterangepicker.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>asset/dataTables.bootstrap4.min.css" rel="stylesheet">
 
 </head>
 
@@ -72,7 +73,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="index.html">
+        <a class="nav-link text-dark" href="<?= base_url(); ?>dokter">
           <i class="fas fa-clipboard text-dark"></i>
           <span>Data Dokter</span>
         </a>
@@ -167,6 +168,8 @@
   <script src="<?= base_url(); ?>asset/js/daterangepicker.js"></script>
   <script src="<?= base_url(); ?>asset/js/moment.min.js"></script>
   <script src="<?= base_url(); ?>asset/js/jquery-ui.min.js"></script>
+  <script src="<?= base_url(); ?>asset/dataTables.bootstrap4.min.js"></script>
+  <script src="<?= base_url(); ?>asset/jquery.dataTables.min.js"></script>
 
   <!-- Page level plugins -->
   <!-- <script src="vendor/chart.js/Chart.min.js"></script> -->
@@ -175,7 +178,10 @@
   <!-- <script src="js/demo/chart-area-demo.js"></script>
   <script src="js/demo/chart-pie-demo.js"></script> -->
   <script>
-
+    $(document).ready(function() {
+      $('#dataTable').DataTable();
+    });
+    
     $(function () {
       'use strict'
       // The Calender

@@ -24,7 +24,7 @@
                         <div class="h5 mb-0 font-weight-bold text-gray-800">128</div>
                       </div>
                       <div class="col-auto">
-                        <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                        <i class="fas fa-user-md fa-2x text-gray-300"></i>
                       </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">1000</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                            <i class="fas fa-users fa-2x text-gray-300"></i>
                         </div>
                     </div>
                 </div>

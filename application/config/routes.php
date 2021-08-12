@@ -6,3 +6,5 @@ $route['404_override']          = '';
 $route['translate_uri_dashes']  = FALSE;
 $route['login']                 = 'Login';
 $route['dashboard']             = 'Admin';
+$route['dokter']                = 'Dokter';
+$route['dokter/tambah']         = 'Dokter/tambah';
