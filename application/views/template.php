@@ -49,8 +49,8 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="index.html">
-          <i class="fas fa-clipboard text-dark"></i>
+        <a class="nav-link text-dark" href="<?= base_url(); ?>post">
+          <i class="fas fa-edit text-dark"></i>
           <span>Post</span>
         </a>
       </li>
@@ -170,6 +170,7 @@
   <script src="<?= base_url(); ?>asset/js/jquery-ui.min.js"></script>
   <script src="<?= base_url(); ?>asset/dataTables.bootstrap4.min.js"></script>
   <script src="<?= base_url(); ?>asset/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.ckeditor.com/ckeditor5/29.1.0/classic/ckeditor.js"></script>
 
   <!-- Page level plugins -->
   <!-- <script src="vendor/chart.js/Chart.min.js"></script> -->
@@ -190,6 +191,12 @@
         inline: true
       })
     })
+    
+    ClassicEditor
+      .create( document.querySelector( '#editor' ) )
+      .catch( error => {
+          console.error( error );
+      } );
   </script>
 
 </body>
