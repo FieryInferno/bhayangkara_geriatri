@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 13 Agu 2021 pada 15.27
+-- Waktu pembuatan: 13 Agu 2021 pada 17.36
 -- Versi server: 10.4.19-MariaDB
 -- Versi PHP: 8.0.6
 
@@ -105,6 +105,13 @@ CREATE TABLE `post` (
   `gambar` varchar(191) NOT NULL,
   `konten` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data untuk tabel `post`
+--
+
+INSERT INTO `post` (`id_post`, `judul`, `gambar`, `konten`) VALUES
+(1, 'Sejarah Litbang', 'logo_bpn.png', '<p>A</p>');
 
 -- --------------------------------------------------------
 
@@ -211,7 +218,7 @@ ALTER TABLE `pemeriksaan_pasien`
 -- AUTO_INCREMENT untuk tabel `post`
 --
 ALTER TABLE `post`
-  MODIFY `id_post` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id_post` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT untuk tabel `user`

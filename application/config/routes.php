@@ -7,6 +7,7 @@ $route['translate_uri_dashes']  = FALSE;
 $route['login']                 = 'Login';
 $route['dashboard']             = 'Admin';
 $route['emergency']             = 'Emergency';
+$route['homecare']              = 'Homecare';
 
 $route['pasien']          = 'Pasien';
 $route['periksa_pasien']  = 'Pasien/periksa';

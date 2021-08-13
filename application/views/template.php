@@ -67,7 +67,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="index.html">
+        <a class="nav-link text-dark" href="<?= base_url(); ?>homecare">
           <i class="fas fa-clipboard text-dark"></i>
           <span>Data Masuk Layanan Homecare</span>
         </a>
