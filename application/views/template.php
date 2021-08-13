@@ -55,7 +55,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="index.html">
+        <a class="nav-link text-dark" href="<?= base_url(); ?>pasien">
           <i class="fas fa-clipboard text-dark"></i>
           <span>Data Masuk Pendaftaran Pasien Baru</span>
         </a>
