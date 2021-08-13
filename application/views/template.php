@@ -61,6 +61,12 @@
         </a>
       </li>
       <li class="nav-item">
+        <a class="nav-link text-dark" href="<?= base_url(); ?>periksa_pasien">
+          <i class="fas fa-users text-dark"></i>
+          <span>Data Masuk Periksa Pasien</span>
+        </a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link text-dark" href="index.html">
           <i class="fas fa-clipboard text-dark"></i>
           <span>Data Masuk Layanan Homecare</span>

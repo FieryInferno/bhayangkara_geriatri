@@ -9,4 +9,11 @@ class Pasien extends CI_Controller {
     $data['pasien'] = $this->ModelPasien->getAll();
 		$this->load->view('template', $data);
 	}
+  
+	public function periksa()
+	{
+    $data['konten'] = 'periksa_pasien';
+    $data['pasien'] = $this->ModelPasien->getPeriksa();
+		$this->load->view('template', $data);
+	}
 }
