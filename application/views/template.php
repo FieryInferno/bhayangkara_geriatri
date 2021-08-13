@@ -67,8 +67,8 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="index.html">
-          <i class="fas fa-clipboard text-dark"></i>
+        <a class="nav-link text-dark" href="<?= base_url(); ?>emergency">
+          <i class="fas fa-first-aid text-dark"></i>
           <span>Data Masuk Emergency</span>
         </a>
       </li>
