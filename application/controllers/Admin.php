@@ -7,6 +7,7 @@ class Admin extends CI_Controller {
 	{
     $data['konten'] = 'dashboard';
     $data['dokter'] = count($this->ModelDokter->getAll());
+    $data['pasien'] = count($this->ModelPasien->getAll());
 		$this->load->view('template', $data);
 	}
 }
