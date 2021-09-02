@@ -11,6 +11,28 @@
           <h3><strong>Data Masuk Layanan Homecare</strong></h3>
         </div>
         <div class="card-body">
+          <div class="mb-3">
+            <form action="<?= base_url(); ?>homecare" method="get">
+              <div class="col-lg-6">
+                <div class="form-group">
+                  <label>Date range:</label>
+
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text">
+                        <i class="far fa-calendar-alt"></i>
+                      </span>
+                    </div>
+                    <input type="text" class="form-control float-right" id="reservation" name="tanggal">
+                  </div>
+                  <!-- /.input group -->
+                </div>
+                <button type="submit" class="btn btn-primary">Tampilkan</button>
+                <!-- <button type="submit" class="btn btn-primary">Print</button> -->
+                <!-- <a class="btn btn-primary" href="<?= base_url(); ?>admin/pembayaran/laporan_harian" target="_blank">Print Laporan Harian</a> -->
+              </div>
+            </form>
+          </div>
           <div class="table-responsive">
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
               <thead>

@@ -3,8 +3,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class ModelHomecare extends CI_Model {
   
-	public function getAll()
+	public function getAll($tanggal_awal = NULL, $tanggal_akhir = NULL)
 	{
+		if ($tanggal_awal && $tanggal_akhir) {
+			$this->db->where('tanggal_pelayanan >=', $tanggal_awal);
+			$this->db->where('tanggal_pelayanan <=', $tanggal_akhir);
+		}
     $this->db->join('pasien', 'pelayanan_homecare.pasien_id = pasien.id_pasien');
     return $this->db->get('pelayanan_homecare')->result_array();
 	}
