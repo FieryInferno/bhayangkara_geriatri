@@ -32,6 +32,12 @@
                         </div>
                       </div>
                       <div class="form-group row">
+                        <label for="staticEmail" class="col-sm-4 col-form-label">Spesialis</label>
+                        <div class="col-sm-8">
+                          <input type="text" class="form-control" name="spesialis" required>
+                        </div>
+                      </div>
+                      <div class="form-group row">
                         <label for="staticEmail" class="col-sm-4 col-form-label">No. KTP</label>
                         <div class="col-sm-8">
                           <input type="text" class="form-control" name="no_ktp" required>
@@ -73,6 +79,7 @@
               <thead>
                 <tr>
                   <th>Nama Dokter</th>
+                  <th>Spesialis</th>
                   <th>No. Ktp</th>
                   <th>Aksi</th>
                 </tr>
@@ -80,6 +87,7 @@
               <tfoot>
                 <tr>
                   <th>Nama Dokter</th>
+                  <th>Spesialis</th>
                   <th>No. Ktp</th>
                   <th>Aksi</th>
                 </tr>
@@ -89,6 +97,7 @@
                   foreach ($dokter as $d) { ?>
                     <tr>
                       <td><?= $d['nama_dokter']; ?></td>
+                      <td><?= $d['spesialis']; ?></td>
                       <td><?= $d['no_ktp']; ?></td>
                       <td>
                         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#edit<?= $d['id_dokter']; ?>">Edit</button>
@@ -109,6 +118,12 @@
                                     <label for="staticEmail" class="col-sm-4 col-form-label">Nama Dokter</label>
                                     <div class="col-sm-8">
                                       <input type="text" class="form-control" name="nama_dokter" required value="<?= $d['nama_dokter']; ?>">
+                                    </div>
+                                  </div>
+                                  <div class="form-group row">
+                                    <label for="staticEmail" class="col-sm-4 col-form-label">Spesialis</label>
+                                    <div class="col-sm-8">
+                                      <input type="text" class="form-control" name="spesialis" required value="<?= $d['spesialis']; ?>">
                                     </div>
                                   </div>
                                   <div class="form-group row">

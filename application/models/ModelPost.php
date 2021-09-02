@@ -26,4 +26,34 @@ class ModelPost extends CI_Model {
       return $this->upload->data('file_name');
     }
   }
+
+  public function getAll()
+  {
+    return $this->db->get('post')->result_array();
+  }
+
+  public function getById($id_post)
+  {
+    return $this->db->get_where('post', ['id_post'  => $id_post])->row_array();
+  }
+
+  public function edit($id_post)
+  {
+    if ($_FILES['gambar']['name'] !== '') {
+      $gambar = $this->upload();
+      file_exists('asset/' . $this->input->post('gambar_lama')) ? unlink('asset/' . $this->input->post('gambar_lama')) : '';
+    } else {
+      $gambar = $this->input->post('gambar_lama');
+    }
+    $this->db->update('post', [
+      'judul'   => $this->input->post('judul'),
+      'gambar'  => $gambar,
+      'konten'  => $this->input->post('konten')
+    ], ['id_post' => $id_post]);
+  }
+
+  public function delete($id_post)
+  {
+    $this->db->delete('post', ['id_post'  => $id_post]);
+  }
 }

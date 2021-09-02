@@ -18,6 +18,7 @@
                   <th>Nama Pasien</th>
                   <th>Tanggal Lahir</th>
                   <th>Jenis Kelamin</th>
+                  <th>Nomor HP</th>
                   <th>Alamat</th>
                   <th>Lokasi</th>
                 </tr>
@@ -27,6 +28,7 @@
                   <th>Nama Pasien</th>
                   <th>Tanggal Lahir</th>
                   <th>Jenis Kelamin</th>
+                  <th>Nomor HP</th>
                   <th>Alamat</th>
                   <th>Lokasi</th>
                 </tr>
@@ -35,11 +37,12 @@
                 <?php
                   foreach ($emergency as $e) { ?>
                     <tr>
-                      <td><?= $d['nama_lengkap']; ?></td>
-                      <td><?= $d['tanggal_lahir']; ?></td>
-                      <td><?= $d['jenis_kelamin'] == 'p' ? 'Perempuan' : 'Laki - Laki'; ?></td>
-                      <td><?= $d['alamat']; ?></td>
-                      <td><a href="#" class="btn btn-primary">Lihat Lokasi</a></td>
+                      <td><?= $e['nama_lengkap']; ?></td>
+                      <td><?= $e['tanggal_lahir']; ?></td>
+                      <td><?= $e['jenis_kelamin'] == 'p' ? 'Perempuan' : 'Laki - Laki'; ?></td>
+                      <td><?= $e['no_hp']; ?></td>
+                      <td><?= $e['alamat']; ?></td>
+                      <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $e['latitude'] . ', ' . $e['longitude']; ?>" class="btn btn-primary" target="_blank">Lihat Lokasi</a></td>
                     </tr>
                   <?php }
                 ?>

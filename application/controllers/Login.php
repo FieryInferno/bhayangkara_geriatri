@@ -5,6 +5,9 @@ class Login extends CI_Controller {
   
 	public function index()
 	{
+	    if($this->session->userdata('id_user')) {
+	        redirect('dashboard');
+	    }
     if ($this->input->post()) {
       // print_r($this->input->post());
       // die();
@@ -16,7 +19,8 @@ class Login extends CI_Controller {
         if ($data) {
           if (password_verify($this->input->post('password'), $data['password'])) {
             $this->session->set_userdata([
-              'login'     => TRUE
+              'login'     => TRUE,
+              'id_user'   => $data['id_user']
             ]);
             redirect('dashboard');
           } else {

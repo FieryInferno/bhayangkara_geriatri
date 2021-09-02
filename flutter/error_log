@@ -1,0 +1,300 @@
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: nama_lengkap in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 5
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: tanggal_lahir in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 7
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 8
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: jenis_kelamin in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 9
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: agama in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 10
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: pendidikan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 11
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined index: alamat in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 12
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined variable: no_hp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 28
+[16-Aug-2021 08:01:29 UTC] PHP Notice:  Undefined variable: email in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 35
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: nama_lengkap in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 5
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: no_hp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 6
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: tanggal_lahir in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 7
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 8
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: jenis_kelamin in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 9
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: agama in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 10
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: pendidikan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 11
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: alamat in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 12
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: email in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 13
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 14
+[16-Aug-2021 12:07:00 UTC] PHP Notice:  Undefined index: created_at in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 15
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: nama_lengkap in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 5
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: no_hp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 6
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: tanggal_lahir in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 7
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 8
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: jenis_kelamin in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 9
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: agama in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 10
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: pendidikan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 11
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: alamat in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 12
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: email in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 13
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 14
+[17-Aug-2021 09:40:40 UTC] PHP Notice:  Undefined index: created_at in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 15
+[17-Aug-2021 11:23:31 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:23:31 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:23:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:23:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:24:19 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:24:19 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:24:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:24:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:25:53 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:25:53 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:25:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:25:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:26:08 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:26:08 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:26:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:26:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:28:45 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:28:45 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:28:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:28:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:30:28 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:30:28 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:30:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:30:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:31:51 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 11:31:51 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:31:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 11:31:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:16:56 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:16:56 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:16:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:16:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:23:12 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:23:12 UTC] PHP Notice:  Undefined variable: cek in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:23:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:23:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 11
+[17-Aug-2021 12:26:41 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:28:35 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:28:43 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:28:55 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:29:06 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:29:18 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:34:42 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:36:21 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:36:29 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:36:37 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:40:12 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:40:12 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:42:38 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:42:38 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:42:46 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:46:23 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:47:22 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:49:49 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:50:18 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:50:37 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 4
+[17-Aug-2021 12:52:28 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:52:28 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 12:52:30 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 5
+[17-Aug-2021 12:52:30 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 12:53:59 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: nama_lengkap in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 5
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: no_hp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 6
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: tanggal_lahir in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 7
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 8
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: jenis_kelamin in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 9
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: agama in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 10
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: pendidikan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 11
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: alamat in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 12
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: email in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 13
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 14
+[17-Aug-2021 12:58:45 UTC] PHP Notice:  Undefined index: created_at in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/pasien.php on line 15
+[17-Aug-2021 13:02:35 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 13:06:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 13:09:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 13:16:27 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 13:18:28 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[17-Aug-2021 13:20:57 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login.php on line 6
+[20-Aug-2021 15:27:17 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[20-Aug-2021 15:27:17 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 05:55:04 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 05:55:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 05:59:16 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 05:59:16 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:00:27 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:00:27 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:01:05 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:01:05 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:01:14 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:01:14 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:02:16 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:02:16 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:02:40 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:02:40 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:02:43 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:02:43 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:02:55 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:02:55 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:02:56 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:02:56 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:03:23 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:03:23 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:15:23 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:15:23 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:15:27 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:15:27 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:17:52 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:17:52 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:17:52 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:17:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:17:57 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:17:57 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:17:57 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:17:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:18:40 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:18:40 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:18:40 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:18:49 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:18:49 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:18:49 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:18:58 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:18:58 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:18:58 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:19:13 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:19:13 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:19:13 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:19:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:19:33 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:19:33 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:19:33 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardumb() in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 19
+[23-Aug-2021 06:19:56 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:19:56 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:20:04 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:20:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:20:05 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:20:05 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:20:16 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:20:16 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:27:10 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:27:10 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:27:10 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:27:11 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 06:27:11 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:27:11 UTC] PHP Notice:  Undefined variable: query in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:27:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 18
+[23-Aug-2021 06:32:34 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:32:34 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:05 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:05 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:09 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:09 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:23 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:23 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:33 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:33 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:47 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:47 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:35:50 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:35:50 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:36:03 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:36:03 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:38:14 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:38:14 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:39:45 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:39:45 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:39:49 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:39:49 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:39:51 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:39:51 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:39:55 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:39:55 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:42:15 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:42:15 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:44:36 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:44:36 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:45:43 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:45:43 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:47:04 UTC] PHP Notice:  Undefined index: passwor in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:47:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:47:05 UTC] PHP Notice:  Undefined index: passwor in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:47:05 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:47:36 UTC] PHP Notice:  Undefined index: passwor in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:47:36 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:47:39 UTC] PHP Notice:  Undefined index: passwor in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:47:39 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:47:58 UTC] PHP Notice:  Undefined index: passwor in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:47:58 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:48:30 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:48:30 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:49:09 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:49:09 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:49:39 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:49:39 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:50:04 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:50:04 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 7
+[23-Aug-2021 06:50:42 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:50:42 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:50:50 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:50:50 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:50:52 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:50:52 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:50:57 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:50:57 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:23 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:23 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:25 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:25 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:32 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:32 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:38 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:38 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:47 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:47 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:49 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:49 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:51:53 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:51:53 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:54:17 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:54:17 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:57:50 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:57:50 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 06:57:57 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 06:57:57 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 8
+[23-Aug-2021 07:11:37 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 07:11:37 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 07:12:38 UTC] PHP Notice:  Undefined index: password in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 5
+[23-Aug-2021 07:12:38 UTC] PHP Notice:  Undefined index: no_ktp in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien.php on line 6
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: id_jabatan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 24
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 25
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 26
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 27
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 28
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 29
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 30
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: kode_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 31
+[23-Aug-2021 07:29:35 UTC] PHP Notice:  Undefined index: nama_karyawan in /home/rsbmgeri/public_html/bhayangkara_geriatri/flutter/login_pasien2.php on line 32

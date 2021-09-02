@@ -7,6 +7,10 @@ class Dokter extends CI_Controller {
 	{
     $data['konten'] = 'dokter';
     $data['dokter'] = $this->ModelDokter->getAll();
+    $data['user'] = $this->ModelUser->getById($this->session->userdata('id_user'));
+    if($data['user']['level_access'] !== 'admin') {
+        redirect();
+        } 
 		$this->load->view('template', $data);
 	}
 

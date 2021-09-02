@@ -12,6 +12,7 @@ class ModelDokter extends CI_Model {
   {
     $this->db->insert('dokter', [
       'nama_dokter' => $this->input->post('nama_dokter'),
+      'spesialis'   => $this->input->post('spesialis'),
       'no_ktp'      => $this->input->post('no_ktp'),
       'password'    => password_hash($this->input->post('password'), PASSWORD_DEFAULT)
     ]);
@@ -21,6 +22,7 @@ class ModelDokter extends CI_Model {
   {
     $data = [
       'nama_dokter' => $this->input->post('nama_dokter'),
+      'spesialis'   => $this->input->post('spesialis'),
       'no_ktp'      => $this->input->post('no_ktp')
     ];
     if ($this->input->post('password')) $data['password'] = password_hash($this->input->post('password'), PASSWORD_DEFAULT);

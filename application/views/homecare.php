@@ -15,6 +15,7 @@
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
               <thead>
                 <tr>
+                  <th>Tanggal Pelayanan</th>
                   <th>Nama Pasien</th>
                   <th>No. HP</th>
                   <th>Lokasi</th>
@@ -24,6 +25,7 @@
               </thead>
               <tfoot>
                 <tr>
+                  <th>Tanggal Pelayanan</th>
                   <th>Nama Pasien</th>
                   <th>No. HP</th>
                   <th>Lokasi</th>
@@ -33,11 +35,12 @@
               </tfoot>
               <tbody>
                 <?php
-                  foreach ($dokter as $d) { ?>
+                  foreach ($homecare as $d) { ?>
                     <tr>
-                      <td><?= $d['nama_lengkap']; ?></td>
+                      <td><?= tgl_indo($d['tanggal_pelayanan']); ?></td>
+                      <td><?= $d['nama_pasien']; ?></td>
                       <td><?= $d['no_hp']; ?></td>
-                      <td><button class="btn btn-primary"></button></td>
+                      <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $d['latitude'] . ', ' . $d['longitude']; ?>" class="btn btn-primary" target="_blank">Lihat Lokasi</a></td>
                       <td><?= $d['keluhan']; ?></td>
                       <td><?= $d['kondisi_saat_ini']; ?></td>
                     </tr>
